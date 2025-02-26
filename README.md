@@ -2,7 +2,7 @@ Inspired by a comment under [this post](https://x.com/unlikelydoorway/status/185
 
 TODO : 
 - dotnet or reactnative ?
-- use WinUI3
+- use [WinUI3](https://learn.microsoft.com/en-us/windows/apps/winui/winui3/create-your-first-winui3-app)
 - use [app installer](https://learn.microsoft.com/en-us/windows/msix/app-installer/install-update-app-installer)
 - fork the [official windows terminal](https://github.com/microsoft/terminal)
 - add file explorer and notepad
